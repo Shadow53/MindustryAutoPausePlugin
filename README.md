@@ -1,3 +1,4 @@
-# AdminPlugin
+# AutoPausePlugin
 
-Enable admin commands through the mindustry client
+Automatically pause the game when the last player quits
+
